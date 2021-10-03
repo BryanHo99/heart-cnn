@@ -2,8 +2,8 @@
 Final year project focusing on deep learning classification of ECG and PCG signals for cardiac abnormality detection.
 
 ## Resources
-- [Final Report](Final Report.pdf)
-- [User and Technical Guide](User and Technical Guide.pdf)
+- [Final Report](Final&#32;Report.pdf)
+- [User and Technical Guide](User&#32;and&#32;Technical&#32;Guide.pdf)
 
 Summary of procedures are as follow:
 
