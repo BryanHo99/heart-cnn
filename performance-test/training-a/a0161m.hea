@@ -1,0 +1,6 @@
+a0161m 2 2000 71750
+a0161m.mat 16+24 1/mV 16 0 1479 3909 0 PCG
+a0161m.mat 16+24 1000/mV 16 0 1 -30952 0 ECG
+# Normal
+#Creator: wfdb2mat
+#Source: record challenge/2016/training-a/a0161

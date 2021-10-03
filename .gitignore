@@ -1,0 +1,16 @@
+# CSV files
+/examples/ECGClassifier/Data/mitbih_test.csv
+/examples/ECGClassifier/Data/mitbih_train.csv
+/examples/ECGClassifier/Data/ptbdb_abnormal.csv
+/examples/ECGClassifier/Data/ptbdb_normal.csv
+/examples/ECGClassifier/Data/train_set.pickle
+/examples/CNNFord/raw.githubusercontent.com
+
+# Deep learning models
+/examples/ECGClassifier/Models
+/examples/CNNFord/best_model.h5
+/project/best_model.h5
+/project/best_model.pkl
+
+# Python environment folders
+/project/env

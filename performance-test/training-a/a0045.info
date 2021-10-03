@@ -1,0 +1,10 @@
+Source: record challenge/2016/training-a/a0045
+val has 2 rows (signals) and 71750 columns (samples/signal)
+Duration:     0:35
+Sampling frequency: 2000 Hz  Sampling interval: 0.0005 sec
+Row	Signal	Gain	Base	Units
+1	PCG	1	0	mV
+2	ECG	1000	0	mV
+
+To convert from raw units to the physical units shown
+above, subtract 'base' and divide by 'gain'.

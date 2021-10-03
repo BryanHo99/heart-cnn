@@ -1,0 +1,6 @@
+a0192m 2 2000 71750
+a0192m.mat 16+24 1/mV 16 0 -69 -3001 0 PCG
+a0192m.mat 16+24 1000/mV 16 0 0 -13702 0 ECG
+# Abnormal
+#Creator: wfdb2mat
+#Source: record challenge/2016/training-a/a0192

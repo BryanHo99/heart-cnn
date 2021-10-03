@@ -1,0 +1,6 @@
+a0093m 2 2000 61440
+a0093m.mat 16+24 1/mV 16 0 -1 -15078 0 PCG
+a0093m.mat 16+24 1000/mV 16 0 -1 10614 0 ECG
+# Normal
+#Creator: wfdb2mat
+#Source: record challenge/2016/training-a/a0093
