@@ -5,7 +5,7 @@ Final year project focusing on deep learning classification of ECG and PCG signa
 - [Final Report](Final&#32;Report.pdf)
 - [User and Technical Guide](User&#32;and&#32;Technical&#32;Guide.pdf)
 
-Summary of procedures are as follow:
+## Summary
 
 #### Preprocessing
 1. Parse MATLAB dataset into NumPy arrays.
